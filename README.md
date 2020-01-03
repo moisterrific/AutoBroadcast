@@ -29,3 +29,22 @@ _Broadcast_
 | Groups | string[] | A list of groups that the broadcast is displayed to or the groups that can trigger the broadcast. Use `*` for all groups. | 
 | TriggerWords | string[] | A list of words that will trigger the broadcast. |
 | TriggerToWholeGroup | boolean | |
+
+Autobroadcast
+by Scavenger3 & Simon311
+Modified by Zaicon​
+
+Features:
+Automatically Broadcast an infinte number of messages or commands.
+Broadcast an infinite number of lines.
+Choose wich group to broadcast the message to.
+Choose what colour to broadcast the message.
+Choose the interval between broadcasts.
+Commands:
+/autobc - Reloads settings from config file.
+Guide:
+Check out this detailed guide for this plugin!​
+
+abroadcast: Enables access to /autobc 
+
+https://tshock.co/xf/index.php?resources/autobroadcast.66/
